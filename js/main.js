@@ -1,5 +1,5 @@
 var result = `/* 
- * 面试官你好，我是XXX
+ * 面试官你好，我是郑志恒
  * 我将以动画的形式来介绍自己
  * 只用文字作做我介绍太单调了
  * 我就用代码来介绍吧
@@ -109,21 +109,18 @@ writeCode('',result,()=>{
 
 var md = `
 # 自我介绍
-我叫 XXX
-1990 年 1 月出生
-XXX 学校毕业
+我叫 郑志恒
+1993 年 10 月出生
+河南城建学院 本科毕业
 自学前端半年
 希望应聘前端开发岗位
 # 技能介绍
-熟悉 JavaScript CSS
-# 项目介绍
-1. XXX 轮播
-2. XXX 简历
-3. XXX 画板
+熟悉 HTML CSS 原生JS jQuery webpack npm&git等等
+
 # 联系方式
-- QQ xxxxxxxx
-- Email xxxxxxxx
-- 手机 xxxxxxx
+- QQ 780357902
+- Email 780357902@qq.com
+- 手机 13264686233
 `
 
 
